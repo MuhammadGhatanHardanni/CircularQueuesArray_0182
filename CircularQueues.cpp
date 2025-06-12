@@ -70,7 +70,10 @@ void insert()
         }
     }
 
-    
+    void display()
+    {
+        
+    }
 
 
 
