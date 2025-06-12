@@ -7,5 +7,11 @@ class Queues {
     int FRONT, REAR;
     int queues_array[5];
 
-    
+    public:
+    Queues() {
+        FRONT = -1;
+        REAR = -1;
+    }
+
+
 };
